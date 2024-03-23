@@ -1,4 +1,4 @@
-﻿namespace singleton
+﻿namespace Singleton
 {
     // The 'Singleton' class
     internal class Singleton
